@@ -1,5 +1,7 @@
 # WhitePassword
-Random Password generator using Python which generates a password and prints it into an MS-Word and PDF file with Font Colour as White.
+Random Password generator using Python which generates a password and prints it into an MS-Word and PDF file with Font Colour as White. This is the safest way to generate a password for any activity on teh internet and either allow the browser to remember it, to store this in a some storage device. The password may be used by copying the contents so that anyone viewing your screen will also not be able to see your password (including you).
+
+# Remember to clear your clipboard which stores the password temporarily while copying and using it.
 
 The user enters the permissible length of the password as input.
 
