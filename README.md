@@ -1,4 +1,7 @@
 # WhitePassword
+
+https://www.linkedin.com/posts/santanu-banerjee-093929150_github-santanbanwhitepassword-random-activity-6928894840805957632-I4rN?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 Random Password generator using Python which generates a password and prints it into an MS-Word and PDF file with Font Colour as White. This is the safest way to generate a password for any activity on teh internet and either allow the browser to remember it, to store this in a some storage device. The password may be used by copying the contents so that anyone viewing your screen will also not be able to see your password (including you).
 
 # Remember to clear your clipboard which stores the password temporarily while copying and using it.
