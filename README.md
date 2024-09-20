@@ -15,3 +15,10 @@ all_keyboard_entity={1: '`', 2: '1', 3: '2', 4: '3', 5: '4', 6: '5', 7: '6', 8: 
 It may be noted that the Python random funtion available isn't very good with respect to its distribution of choices; and therefore it is necessary to have a better random generator which would be pure random number generator (like IBM Quantum Computers could be integrated using Qiskit)
 
 An Image Folder is also provided which highlightes the frequency of the choices among 96 entities. As we progressively increase the number of choices, the Standard Deviation increases which definitely tell that the probability of choosing all numbers are not equal. [This may be therefore compared similarly to a random number generated using a Quantum Computer].
+
+
+# Major Security Update
+
+Earlier I considered that not opening any file during the password creation, and instead saving the password directly into the RAM could be safer. However...
+1) new attack leaks secrets using RAM as a radio: https://www.youtube.com/watch?v=ihtAijebU-M
+2) RAMBO Attack: Stealing Data from Air-Gapped Computers: https://www.youtube.com/watch?v=ZQcnHE3mk_A
